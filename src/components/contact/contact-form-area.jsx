@@ -5,9 +5,7 @@ import React from 'react';
 
 import img from "../../../public/assets/img/contact/contact-icon-sm-4.png";
 import Image from 'next/image';
-import {
- ContattiCreateForm 
-} from './ui-components';
+
 
 
 const contact_content  = {
