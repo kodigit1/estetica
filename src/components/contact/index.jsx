@@ -7,6 +7,9 @@ import ContactInner from "./contact-inner";
 import CtaArea from "./cta-area";
 import HeroBanner from "../../common/hero-banner";
 import OfficeLocation from "./office-location";
+import {
+ ContattiCreateForm 
+} from './ui-components';
 
 const Contact = () => {
   return (

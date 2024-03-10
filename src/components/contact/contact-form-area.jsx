@@ -5,6 +5,9 @@ import React from 'react';
 
 import img from "../../../public/assets/img/contact/contact-icon-sm-4.png";
 import Image from 'next/image';
+import {
+ ContattiCreateForm 
+} from './ui-components';
 
 
 const contact_content  = {
@@ -45,7 +48,7 @@ const ContactFormArea = () => {
                      <div className="col-xl-7 col-lg-6">
                         <div className="contact-form-right-warp">
                            <div className="postbox__comment-form">
-                            <ContactUsForm /> 
+                            <ContactUsForm /><ContattiCreateForm /> 
                            </div>
                         </div>
                      </div>
