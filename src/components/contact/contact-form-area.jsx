@@ -48,7 +48,7 @@ const ContactFormArea = () => {
                      <div className="col-xl-7 col-lg-6">
                         <div className="contact-form-right-warp">
                            <div className="postbox__comment-form">
-                            <ContactUsForm /><ContattiCreateForm /> 
+                            <ContactUsForm /> 
                            </div>
                         </div>
                      </div>
